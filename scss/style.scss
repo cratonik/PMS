@@ -1,0 +1,6 @@
+@use 'tools/mixins' as *;
+@use 'tools/variable' as *;
+
+h1 {
+  color: $white;
+}
